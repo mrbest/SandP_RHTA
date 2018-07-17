@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sanp_rhta.iml" filepath="$PROJECT_DIR$/.idea/modules/sanp_rhta.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sanp_rhta-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sanp_rhta-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandp_rhta.iml" filepath="$PROJECT_DIR$/.idea/modules/sandp_rhta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandp_rhta-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sandp_rhta-build.iml" />
     </modules>
   </component>
 </project>
